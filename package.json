@@ -38,7 +38,6 @@
     "sharp": "^0.33.4",
     "slugify": "^1.6.6",
     "validator": "^13.12.0",
-    "win-node-env": "^0.6.1",
     "winson": "^1.0.0",
     "xss-clean": "^0.1.4"
   },
